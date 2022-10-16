@@ -1,0 +1,14 @@
+
+.search {
+  width: 500px;
+  height: 40px;
+}
+form{
+  display: flex;
+  font-size: large;
+}
+input{ 
+  font-size:1.3em;
+  height: 45px;
+}
+
