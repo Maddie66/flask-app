@@ -113,5 +113,8 @@ def titles():
     return json_object
 
 
+# if __name__ == '__main__':
+#     app.run(debug=True, host='localhost', port=5002)
+# "proxy": "http://localhost:5002",
 if __name__ == '__main__':
-    app.run(debug=True, host='localhost', port=5002)
+    app.run(debug=True)
